@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kaydenao
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Bash Scripting.
+
 
 
 
